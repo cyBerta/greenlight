@@ -34,7 +34,7 @@ de_DE:
       authentication:
         disabled: Deaktiviert
         enabled: Aktiviert
-        info: Nur authentifizierte Nutzer dürfen diesen Raum betreten
+        info: "Nur authentifizierte Nutzer:innen dürfen diesen Raum betreten"
         title: Betreten des Raums erfordert Authentifizierung
         user-info: "Sie müssen in Greenlight eingeloggt sein, um diesen Raum zu betreten"
       branding:
@@ -60,7 +60,7 @@ de_DE:
         title: Provider-Zwischenspeicher löschen
         button: Zwischenspeicher löschen
       clear_auth:
-        info: Löscht den jetzigen Authenticator für Nutzer wodurch diese sich dann unter Verwendung einer anderen Authentifizierungsmethode neu einloggen können
+        info: "Löscht den jetzigen Authenticator für Nutzer:innen wodurch diese sich dann unter Verwendung einer anderen Authentifizierungsmethode neu einloggen können"
         title: Jetzigen Authenticator entfernen
         button: Authentifizierung löschen
       color:
@@ -98,29 +98,29 @@ de_DE:
       subtitle: Greenlight individuell anpassen
       title: Grundeinstellungen
     flash:
-      approved: Teilnehmer wurde erfolgreich genehmigt.
-      banned: Teilnehmer wurde erfolgreich gesperrt.
-      unbanned: Teilnehmer wurde erfolgreich entsperrt.
-      delete: Teilnehmer erfolgreich gelöscht
-      delete_fail: Löschen des Teilnehmers fehlgeschlagen
-      demoted: "Teilnehmer wurde erfolgreich zurückgestuft "
+      approved: "Teilnehmer:in wurde erfolgreich genehmigt"
+      banned: "Teilnehmer:in wurde erfolgreich gesperrt."
+      unbanned: "Teilnehmer:in wurde erfolgreich entsperrt."
+      delete: "Teilnehmer:in erfolgreich gelöscht"
+      delete_fail: Löschen der Teilnehmenden fehlgeschlagen
+      demoted: "Teilnehmer:in wurde erfolgreich zurückgestuft "
       invite: "Einladung erfolgreich an %{email} geschickt"
       invite_email_verification: "E-Mail-Versand muss aktiviert sein, um diese Methode verwenden zu können. Bitte kontaktieren Sie Ihren Systemadministrator."
-      merge_fail: Beim Zusammenführen der Nutzerkonten ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer und versuchen Sie es erneut 
-      merge_success: Nutzerkonten erfolgreich zusammengeführt
-      perm_deleted: Nutzer wurde dauerhaft gelöscht
-      promoted: Teilnehmer wurde erfolgreich hochgestuft
-      registration_method_updated: Registrierungsmethode erfolgreich aktualisiert
-      reset_password: "Dem Teilnehmer wurde eine E-Mail zur Passwortrücksetzung geschickt. (Bitte weisen Sie ihn darauf hin, den Spamordner zu überprüfen, falls er sie nicht erhalten hat)"
-      restored: Nutzer wurde erfolgreich wiederhergestellt
+      merge_fail: Beim Zusammenführen ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer und versuchen Sie es erneut 
+      merge_success: "Nutzer:innenkonten erfolgreich zusammengeführt"
+      perm_deleted: "Nutzer:in wurde dauerhaft gelöscht"
+      promoted: "Teilnehmer:in wurde erfolgreich hochgestuft"
+      registration_method_updated: "Registrierungsmethode erfolgreich aktualisiert"
+      reset_password: "Der:dem Teilnehmenden wurde eine E-Mail zur Passwortrücksetzung geschickt. (Bitte weisen Sie ihn darauf hin, den Spamordner zu überprüfen, falls er sie nicht erhalten hat)"
+      restored: "Nutzer:in wurde erfolgreich wiederhergestellt"
       room_configuration: Raumkonfiguration erfolgreich geändert
       settings: Grundeinstellungen erfolgreich geändert
-      unauthorized: "Sie haben nicht die notwendigen Rechte, um diese Änderung bei diesem Teilnehmer vorzunehmen."
+      unauthorized: "Sie haben nicht die notwendigen Rechte, um diese Änderung bei dieser teilnehmenden Person vorzunehmen."
     recordings:
       title: Serveraufzeichnungen
       no_recordings: Keine Aufzeichnungen vorhanden.
     roles:
-      appear_in_share_list: Nutzer mit dieser Rolle im Dropdown-Menü zum Teilen von Räumen einschließen
+      appear_in_share_list: "Nutzer:in mit dieser Rolle im Dropdown-Menü zum Teilen von Räumen einschließen"
       can_create_rooms: Kann Räume erstellen
       delete: Rolle löschen
       invalid_create: Es kam zu einem Problem beim Erzeugen einer neuen Rolle. Bitte prüfen Sie die Rollenwerte und versuchen Sie es erneut
@@ -131,12 +131,12 @@ de_DE:
       new_role: Neue Rolle erstellen
       role_has_users: "Diese Rolle ist %{user_count} Konten zugewiesen. Bitte entfernen Sie alle Konten dieser Rolle, bevor Sie sie löschen."
       title: Rollen
-      promote_email: "Nutzern eine E-Mail schicken, wenn Ihnen diese Rolle zugewiesen wird"
-      demote_email: "Nutzern eine E-Mail schicken, wenn Ihnen diese Rolle entzogen wird"
-      edit_site_settings: "Nutzern mit dieser Rolle erlauben, die Grundeinstellungen zu ändern"
-      edit_roles: "Nutzern mit dieser Rolle erlauben, andere Rollen zu verändern"
-      manage_users: "Nutzern mit dieser Rolle erlauben, andere Nutzer zu verwalten"
-      invalid_assignment: Es kam zu einem Problem bei der Zuweisung der Rollen zu einem Nutzer. Bitte prüfen Sie die Werte und versuchen Sie es erneut 
+      promote_email: "Nutzer:innen eine Email schicken, wenn Ihnen diese Rolle zugewiesen wird"
+      demote_email: "Nutzer:innen eine Email schicken, wenn Ihnen diese Rolle entzogen wird"
+      edit_site_settings: "Nutzer:innen mit dieser Rolle erlauben, die Grundeinstellungen zu ändern"
+      edit_roles: "Nutzer:innen mit dieser Rolle erlauben, andere Rollen zu verändern"
+      manage_users: "Nutzer:innen mit dieser Rolle erlauben, andere Nutzer:innen zu verwalten"
+      invalid_assignment: "Es kam zu einem Problem bei der Zuweisung der Rollen zu einem:einer Nutzer:in. Bitte prüfen Sie die Werte und versuchen Sie es erneut"
       colour:
         title: Rollenfarbe
         info: "Die Farbe einstellen, die dieser Rolle zugewiesen wird"
@@ -167,7 +167,7 @@ de_DE:
         view: Ansehen
     title: Organisationseinstellungen
     users:
-      invite: Teilnehmer einladen
+      invite: "Teilnehmer:in einladen"
       edit:
         title: Teilnehmerdetails editieren
       settings:
@@ -176,21 +176,21 @@ de_DE:
         ban: Sperren
         delete: Löschen
         edit: Ändern
-        edit_roles: Nutzerrollen verändern
+        edit_roles: "Nutzer:innenrollen verändern"
         merge: Zusammenführen
         perm_delete: Dauerhaft löschen
-        unban: Konto freischalten
+        unban: Ausschluss der teilnehmenden Person aufheben.
         undelete: Löschung rückgängig machen
       table:
         authenticator: Authenticator
         created: Erzeugt
         name: Name
-        not_found: Keinen Teilnehmer für Ihre Suchkriterien gefunden
-        no_users: Kein Teilnehmer gefunden
+        not_found: "Keine:n Teilnehmer:in für Ihre Suchkriterien gefunden"
+        no_users: "Keine:n Teilnehmer:in gefunden"
         role: Rolle
-        uid: Teilnehmer ID
-        username: Teilnehmername
-      title: Teilnehmer verwalten
+        uid: "Teilnehmer:innen ID"
+        username: "Teilnehmer:innenname"
+      title: "Teilnehmer:in verwalten"
   add_to_google_calendar: "Zum Google Kalender hinzufügen"
   bigbluebutton: BigBlueButton
   bigbluebutton_exception: "Ups, beim Start der Konferenz ist ein Fehler aufgetreten!"
@@ -204,7 +204,7 @@ de_DE:
     month_names: [~, Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   default_admin: "Sie verwenden immer noch das voreingestellte Passwort für dieses Konto. Bitte klicken Sie <a href=\"%{edit_link}\">hier</a>, um es zu ändern"
   delete: Löschen
-  delivery_error: Während der E-Mail-Zustellung ist ein Fehler aufgetreten. Bitte kontaktieren Sie einen Administrator!
+  delivery_error: "Während der E-Mail-Zustellung ist ein Fehler aufgetreten. Bitte kontaktieren Sie eine:n Administrator:in!"
   docs: Dokumentation
   email: E-Mail
   email_sent: "%{email_type}: Es wurde eine E-Mail an Sie verschickt! (Bitte prüfen Sie Ihren Spamordner, falls Sie die E-Mail nicht erhalten haben)"
@@ -222,7 +222,7 @@ de_DE:
       message: "Entschuldigung, wir befinden uns im Wartungsmodus."
       help: Wir sind in Kürze wieder da!
     migration_error:
-      contact_admin: "Wenn Sie kein Administrator sind, kontaktieren Sie bitte einen."
+      contact_admin: "Wenn Sie kein:e Administrator:in sind, kontaktieren Sie bitte eine:n."
       continue: Ich möchte bleiben und 1.0 verwenden.
       notice: >
         Greenlight hat einen Datenbankmigrationsfehler bemerkt.<br> Dies kann auftreten, weil Sie noch nicht auf Greenlight 2.0. upgedatet haben.
@@ -237,22 +237,22 @@ de_DE:
       confirmation: "passt nicht zu %{attribute}"
       inclusion: ist nicht Teil der Liste
     no_provider:
-      message: "Die Seite, auf die Sie zugreifen möchten, ist nicht aktiviert."
-      help: "Bitte kontaktieren Sie Ihren Systemadministrator, damit er Greenlight einrichtet."
+      message: "Die Seite, auf die Sie versuchen zuzugreifen, ist nicht aktiviert."
+      help: "Bitte kontaktieren Sie Ihre:n Systemadministrator:in, damit er:sie Greenlight einrichtet."
     not_found:
       message: Entschuldigung! Die aufgerufene Seite existiert nicht.
       help: "Ist es möglich, dass es entfernt wurde?"
       user_not_found:
-        help: Bitte kontaktieren Sie einen Administrator.
-        message: "Entschuldigung, dieser Nutzer ist nicht registriert."
+        help: "Bitte kontaktieren Sie eine:n Administrator:in."
+        message: "Tut uns leid, dieser Nutzer ist nicht registriert."
       user_missing:
         help: Bitte prüfen Sie die URL und versuchen Sie es erneut
         message: Die eingegebene URL ist ungültig.
     title: Fehler
     unauthorized:
       message: Sie haben keinen Zugriff auf diese Anwendung
-      help: "Falls Sie glauben, dass hier ein Fehler vorliegt, kontaktieren Sie Ihren Systemadministrator."
-  expired_reset_token: Der Link zum Zurücksetzen des Passworts ist abgelaufen!
+      help: "Falls Sie glauben, dass hier ein Fehler vorliegt, kontaktieren Sie Ihre:n Systemadministrator:in."
+  expired_reset_token: Passwordresetlink ist abgelaufen!
   features:
     title: Eigenschaften
     rooms: Personalisierte Räume
@@ -292,8 +292,8 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
+    welcome: Willkommen bei webinar.solitech.org.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
@@ -308,16 +308,16 @@ de_DE:
         signin: "Um auf Ihre persönlichen Räume zuzugreifen, klicken Sie bitte auf den unten stehenden Button und loggen Sie sich ein. "
         signin_link: Einloggen
         signup:
-          info: Ein neuer Nutzer hat sich bei Greenlight angemeldet.
-          more-info: "Um diesem Nutzer Zugriff auf Greenlight zu geben, müssen Sie sein Konto in den Organisationseinstellungen genehmigen."
+          info: "Ein:e neue:r Nutzer:in hat sich bei Greenlight angemeldet."
+          more-info: "Um dieser:diesem Nutzer:in Zugriff auf Greenlight zu geben, müssen Sie ihr:sein Konto in den Organisationseinstellungen genehmigen."
           admins_link: Organisationsseite besuchen
           subject: Neue Greenlight Nutzerregistrierung
-          username: "Der Nutzer hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
+          username: "Der:die Nutzer:in hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
         subject: Konto genehmigt
-        username: "Ihr Nutzername ist %{email}."
+        username: "Ihr Nutzer:innenname ist %{email}."
       demoted:
         info: "Sie sind nicht länger ein %{role} auf %{url}."
-        more-info: Sie haben nun dieselben Rechte wie alle normalen Nutzer.
+        more-info: "Sie haben nun dieselben Rechte wie alle normalen Nutzer:innen."
         root_link: Einloggen
         subtitle: "%{role} Rechte entzogen"
       invite:
@@ -325,12 +325,12 @@ de_DE:
         signup_info: "Um sich mit Ihrer E-Mail anzumelden, klicken Sie den untenstehenden Button und folgen Sie den Schritten."
         signup_link: Registrieren
         signup:
-          info: Ein eingeladener Nutzer hat sich bei Greenlight registriert.
+          info: "Ein:e eingeladene:r Nutzer:in hat sich bei Greenlight registriert."
           admins_link: Organisationsseite besuchen
-          subject: Registrierung neuer Greenlight-Nutzer
-          username: "Der Nutzer hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
+          subject: "Registrierung neuer Greenlight-Nutzer:innen"
+          username: "Der:die Nutzer:in hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
         subject: Einladung zur BigBlueButton-Teilnahme
-        username: "Ihr Nutzername ist %{email}."
+        username: "Ihr Nutzer:innenname ist %{email}."
       password_reset:
         title: 'Passwort zurücksetzen'
         welcome: "Es wurde eine Passwortrücksetzung für die E-Mail-Adresse <b>%{email}</b> angefordert."
@@ -346,7 +346,7 @@ de_DE:
       verify_email:
         welcome: "Willkommen zu Ihrem persönlichem Bereich, %{name}!"
         success: "Durch den Einsatz von %{bigbluebutton}, können Sie Ihre eigenen Räume erstellen, dort Konferenzen durchführen und mit anderen zusammenarbeiten."
-        username: "Ihr Benutzername ist  %{email}."
+        username: "Ihr Benutzer:innenname ist  %{email}."
         verify: "Zur Kontoverifikation, klicken Sie bitte auf den untenstehenden Link."
         verify_text: 'Um Ihr Konto zu verifizieren, folgen Sie diesem Link: %{url}'
         verify_link: Konto verifizieren
@@ -375,7 +375,7 @@ de_DE:
       confirm: "Sind Sie sicher, dass Sie dieses Konto löschen wollen?"
       delete: "Ich bin sicher, das Konto soll gelöscht werden."
       keep: Ich behalte ihn doch.
-      delete_warning: Dies deaktiviert das Nutzerkonto. Alle deaktivierten Nutzer findet man unter dem Tab Gelöscht.
+      delete_warning: "Dies deaktiviert das Nutzer:innenkonto. Alle deaktivierten Nutzer:innen findet mensch unter dem Tab Gelöscht."
       warning: "Diese Entscheidung ist endgültig. Sie werden <b>nicht</b> in der Lage sein, damit verbundene Daten wiederherzustellen."
     delete_room:
       confirm: "Sind Sie sicher, dass Sie %{room} löschen wollen?"
@@ -384,10 +384,10 @@ de_DE:
       warning: "Sie werden <b>nicht</b> in der Lage sein, diesen Raum wiederherzustellen"
       recording_warning: "oder jegliche seiner %{recordings_num} verknüpften Aufzeichnungen."
     invite_user:
-      email_placeholder: E-Mail-Adressen der Nutzer (durch Kommas getrennt)
-      footer: "Der Nutzer wird eine E-Mail mit Anweisungen erhalten, wie er sich registrieren kann "
+      email_placeholder: E-Mail-Adressen der Nutzer:innen (durch Kommas getrennt)
+      footer: "Der:die Nutzer:in wird eine Email mit Anweisungen erhalten, wie er:sie sich registrieren kann "
       send: Einladung schicken
-      title: Nutzer einladen
+      title: "Nutzer:in einladen"
     login:
       or: oder
       with: "Einloggen mit %{provider}"
@@ -401,15 +401,15 @@ de_DE:
       title: Raumeinstellungen
       update: Raum aktualisieren
       client: Client auswählen
-      join_moderator: Alle Nutzer nehmen als Moderator teil
-      mute: Teilnehmer beim Betreten stummschalten
+      join_moderator: "Alle Nutzer nehmen als Moderator:in teil"
+      mute: "Teilnehmer:innen beim Betreten stummschalten"
       require_approval: Freigabe durch Moderator bevor der Raum betreten werden kann
-      start: Jeder Teilnehmer kann das Meeting starten
+      start: "Jede:r Teilnehmer:in kann das Meeting starten"
       footer_text: Anpassungen des Raums können jederzeit vorgenommen werden.
     rename_room:
       name_placeholder: Neuen Raumnamen eingeben...
     share_access:
-      footer: "Wenn ein Raum mit einem Nutzer geteilt wird, erhält dieser Nutzer dadurch das Recht im Raum eine Konferenz zu starten und die Aufzeichnungen des Raums anzusehen."
+      footer: "Wenn ein Raum mit einem:einer Nutzer:in geteilt wird, erhält diese:r Nutzer:in dadurch das Recht im Raum eine Konferenz zu starten und die Aufzeichnungen des Raums anzusehen."
       list: Geteilt mit
       title: Raumzugang teilen
       save: Änderungen speichern
@@ -423,9 +423,9 @@ de_DE:
       save: Zusammenführen
       footer: "Die Räume des zusammenzuführenden Kontos werden auf die Raumliste des primären Kontos übertragen, danach wird das zusammenzuführende Konto gelöscht."
   name_update_success: Raumname erfolgreich geändert!
-  no_user_email_exists: "Es gibt keinen Nutzer mit der angegebenen E-Mail. Stellen Sie sicher, dass Sie sich nicht vertippt haben."
-  omniauth_error: Es ist ein Fehler bei der Authentifizierung über Omniauth aufgetreten. Versuchen Sie es nochmal oder kontaktieren Sie einen Administrator.
-  omniauth_specific_error: "%{error} ist während der Authentifizierung mit Omniauth aufgetreten. Bitte versuchen Sie es nochmal oder kontaktieren Sie einen Administrator!"
+  no_user_email_exists: "Es gibt keine:n Nutzer:in mit der angegebenen E-Mail. Stellen Sie sicher, dass Sie sich nicht vertippt haben."
+  omniauth_error: "Es ist ein Fehler bei der Authentifizierung über Omniauth aufgetreten. Versuchen Sie es nochmal oder kontaktieren Sie eine:n Administrator:in."
+  omniauth_specific_error: "%{error} ist während der Authentifizierung mit Omniauth aufgetreten. Bitte versuchen Sie es nochmal oder kontaktieren Sie eine:n Administrator:in!"
   pagy:
     nav:
       prev: "&lsaquo; Vorheriges"
@@ -470,18 +470,18 @@ de_DE:
       video: Video
   registration:
     approval:
-      fail: "Ihr Konto wurde noch nicht freigeschaltet. Falls Sie sich bereits vor mehreren Tagen registriert haben, kontaktieren Sie bitte Ihren Administrator."
-      signup: Ihr Konto wurde erfolgreich erstellt. Es wurde an einen Administrator zur Freigabe geschickt.
+      fail: "Ihr Konto wurde noch nicht freigeschaltet. Falls Sie sich bereits vor mehreren Tagen registriert haben, kontaktieren Sie bitte Ihre:n Administrator:in."
+      signup: "Ihr Konto wurde erfolgreich erstellt. Es wurde an eine:n Administrator:in zur Freigabe geschickt."
     banned:
-      fail: "Sie haben keinen Zugriff auf dieses Applikation. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihren Administrator." 
+      fail: "Sie haben keinen Zugriff auf diese Applikation. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihre:n Administrator:in." 
     deprecated:
       new_signin: Wählen Sie eine neue Loginmethode für Ihr Konto aus. Alle Ihre Räume und Ihr altes Konto werden auf einen neues Konto migriert.
       twitter_signin: "Das Einloggen über Twitter wird bald nicht mehr unterstützt und wird in einer zukünftigen Version ganz entfernt. Klicken Sie <a href=\"%{link}\"> hier </a> um Ihren Account auf eine neue Authentifizierungsmethode umzustellen"
       twitter_signup: Einloggen über Twitter wird abgeschafft. Bitte verwenden Sie eine andere Loginmethode
       merge_success: Ihr Twitter-Konto wurde erfolgreich mit dem neuen Konto zusammengeführt. Der Zugang über Ihr Twitter-Konto wurde gelöscht.
     invite:
-      fail: "Ihr Token ist entweder ungültig oder er ist abgelaufen. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihren Administrator."
-      no_invite: "Sie sind nicht zu Teilnahme eingeladen. Bitte kontaktieren Sie Ihren Administrator, um eine Einladung zu erhalten."
+      fail: "Ihr Token ist entweder ungültig oder er ist abgelaufen. Falls Sie denken, dass hier ein Fehler vorliegt, kontaktieren Sie bitte Ihre:n Administrator:in."
+      no_invite: "Sie sind nicht zu Teilnahme eingeladen. Bitte kontaktieren Sie Ihre:n Administrator:in, um eine Einladung zu erhalten."
   remove: Entfernen
   rename: Umbenennen
   reset_password:
@@ -497,7 +497,7 @@ de_DE:
     banned: Gesperrt
     deleted: Gelöscht
     pending: Wartend
-    user: Benutzer
+    user: "Benutzer:in"
   room:
     access_code_required: "Bitte geben Sie einen gültigen Zugangscode ein, um den Raum zu betreten"
     create_room: Raum erstellen
@@ -514,11 +514,11 @@ de_DE:
     join: Teilnehmen
     last_session: "Letzte Konferenz am %{session}"
     login: Betreten
-    owner: Initiator
+    owner: "Initiator:in"
     owner_banned: Dieser Raum ist aktuell nicht verfügbar
     no_room:
       description: "Geben Sie die Raum-URL oder die Raum-ID des Raums ein, den Sie betreten möchten."
-      edit_profile: Nutzerprofil editieren
+      edit_profile: "Nutzer:innenprofil editieren"
       go_to: Raum betreten
       invalid_room_uid: Die angegebene Raum-URL/ID ist ungülltig.
       placeholder: Raum-URL/ID
@@ -538,7 +538,7 @@ de_DE:
     shared_access_success: Raum erfolgreich geteilt
     shared_access_error: Beim Teilen des Raums ist ein Fehler aufgetreten
     start: Starten
-    unavailable: "Der Raum ist aktuell nicht verfügbar, weil die E-Mail des Rauminitiators noch nicht verifiziert wurde."
+    unavailable: "Der Raum ist aktuell nicht verfügbar, weil die E-Mail der:des Raumbesitzendens noch nicht verifiziert wurde."
     update_settings_error: Bei der Aktualisierung der Raumeinstellungen ist ein Fehler aufgetreten.
     update_settings_success: Raumeinstellungen erfolgreich aktualisiert
     wait:
@@ -548,10 +548,10 @@ de_DE:
     account:
       fullname: Vollständiger Name
       language: Sprache
-      provider: Anbieter
+      provider: "Anbieter:in"
       image: Bild
       image_url: URL des Profilbilds
-      roles: Nutzer-Rolle
+      roles: "Nutzer:innenrollen"
       subtitle: Kontoinformationen aktualisieren
       title: Kontoinformationen
       reset_password: Benutzer-Passwort zurücksetzen
