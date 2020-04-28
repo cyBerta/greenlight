@@ -402,7 +402,7 @@ de_DE:
       update: Raum aktualisieren
       client: Client auswählen
       join_moderator: "Alle Nutzer nehmen als Moderator:in teil"
-      mute: "Teilnehmer:innen beim Betreten stummschalten"
+      mute: "Mikrofon der Teilnehmer:innen beim Betreten ausschalten"
       require_approval: Freigabe durch Moderator bevor der Raum betreten werden kann
       start: "Jede:r Teilnehmer:in kann das Meeting starten"
       footer_text: Anpassungen des Raums können jederzeit vorgenommen werden.
