@@ -293,7 +293,7 @@ de_DE:
       start: Suche beginnen...
   landing:
     about: "Dieser datenschutzfreundliche Community Provider richtet sich vor allem an linke, emanzipatorische Gruppen. Solitech verfolgt keine kommerziellen Interessen und funkioniert nach dem Prinzip gegenseitiger Unterstützung. Initiativen, die das Webkonferenztool BigBlueButton auf webinar.solitech.org nutzen wollen, können sich unter solitech@riseup.net melden."
-    welcome: Willkommen bei webinar.solitech.org.
+    welcome: Willkommen bei webinar.solitech.org
     video: "Hier findet ihr eine Video-Anleitung"
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
