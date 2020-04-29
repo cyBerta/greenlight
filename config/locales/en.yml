@@ -293,9 +293,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "This data protection-friendly community provider is primarily aimed at left-wing, emancipatory groups. Solitech pursues no commercial interests and functions on the principle of mutual aid. Initiatives that want to use the BigBlueButton web conferencing tool on webinar.solitech.org can contact us at solitech@riseup.net"
+    welcome: Welcome to webinar.solitech.org
+    video: Watch our tutorial on using Greenlight, the frontend running on webinar.solitech.org
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)

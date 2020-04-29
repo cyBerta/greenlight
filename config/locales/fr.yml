@@ -292,9 +292,9 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
-    video: Regardez notre tutoriel sur l'utilisation de Greenlight
+    about: "Ce provider communautaire respectueux de la protection des données s'adresse en premier lieu aux groupes de gauche. Solitech ne poursuit aucun intérêt commercial et fonctionne sur la base du principe de la solidarité. Les initiatives qui souhaitent utiliser la plateforme de web-conférence BigBlueButton sur webinar.solitech.org peuvent nous contacter à l'adresse suivante : solitech@riseup.net"
+    welcome: Bienvenue sur webinar.solitech.org
+    video: Regardez le tutoriel sur l'utilisation de Greenlight, l'interface graphique de webinar.solitech.org
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
