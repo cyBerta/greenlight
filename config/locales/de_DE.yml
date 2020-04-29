@@ -83,18 +83,18 @@ de_DE:
         title: Voreinstellung der Aufzeichnungssichtbarkeit
         warning: Diese Einstellung wirkt sich nur auf noch nicht laufende Konferenzen aus.
       registration:
-        info: "Methode ändern, wie sich Benutzer auf der Website registrieren"
+        info: "Methode ändern, wie sich Teilnehmer:innen auf der Webseite registrieren"
         title: Registrierungsmethode
         methods:
           approval: Genehmigen/Verweigern
           invite: Teilnahme durch Einladung
           open: Offene Registrierung
       rooms:
-        info: "Limitiert die Anzahl der Räume, die Nutzer einrichten können (inklusive des Startraums). Diese Einstellung wirkt sich nicht auf Administratoren aus."
-        title: Anzahl der Räume pro Nutzer
+        info: "Limitiert die Anzahl der Räume, die Nutzer:innen einrichten können (inklusive des Startraums). Diese Einstellung wirkt sich nicht auf Administrator:innen aus."
+        title: "Anzahl der Räume pro Nutzer:in"
       shared_access:
-        info: "Wenn diese Option deaktiviert wird, wird dadurch der Button aus den Raumoptionen entfernt und verhindert, dass Nutzer Räume teilen können"
-        title: Nutzern erlauben Räume zu teilen
+        info: "Wenn diese Option deaktiviert wird, wird dadurch der Button aus den Raumoptionen entfernt und verhindert, dass Nutzer:innen Räume teilen können"
+        title: "Nutzer:innen erlauben Räume zu teilen"
       subtitle: Greenlight individuell anpassen
       title: Grundeinstellungen
     flash:
@@ -106,7 +106,7 @@ de_DE:
       demoted: "Teilnehmer:in wurde erfolgreich zurückgestuft "
       invite: "Einladung erfolgreich an %{email} geschickt"
       invite_email_verification: "E-Mail-Versand muss aktiviert sein, um diese Methode verwenden zu können. Bitte kontaktieren Sie Ihren Systemadministrator."
-      merge_fail: Beim Zusammenführen ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer und versuchen Sie es erneut 
+      merge_fail: "Beim Zusammenführen ist ein Problem aufgetreten. Bitte überprüfen Sie die ausgewählten Nutzer:innen und versuchen Sie es erneut"
       merge_success: "Nutzer:innenkonten erfolgreich zusammengeführt"
       perm_deleted: "Nutzer:in wurde dauerhaft gelöscht"
       promoted: "Teilnehmer:in wurde erfolgreich hochgestuft"
@@ -244,7 +244,7 @@ de_DE:
       help: "Ist es möglich, dass es entfernt wurde?"
       user_not_found:
         help: "Bitte kontaktieren Sie eine:n Administrator:in."
-        message: "Tut uns leid, dieser Nutzer ist nicht registriert."
+        message: "Tut uns leid, diese:r Nutzer:in ist nicht registriert."
       user_missing:
         help: Bitte prüfen Sie die URL und versuchen Sie es erneut
         message: Die eingegebene URL ist ungültig.
@@ -309,7 +309,7 @@ de_DE:
         signin_link: Einloggen
         signup:
           info: "Ein:e neue:r Nutzer:in hat sich bei Greenlight angemeldet."
-          more-info: "Um dieser:diesem Nutzer:in Zugriff auf Greenlight zu geben, müssen Sie ihr:sein Konto in den Organisationseinstellungen genehmigen."
+          more-info: "Um der Person Zugriff auf Greenlight zu geben, müssen Sie ihr Konto in den Organisationseinstellungen genehmigen."
           admins_link: Organisationsseite besuchen
           subject: Neue Greenlight Nutzerregistrierung
           username: "Der:die Nutzer:in hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
@@ -384,7 +384,7 @@ de_DE:
       warning: "Sie werden <b>nicht</b> in der Lage sein, diesen Raum wiederherzustellen"
       recording_warning: "oder jegliche seiner %{recordings_num} verknüpften Aufzeichnungen."
     invite_user:
-      email_placeholder: E-Mail-Adressen der Nutzer:innen (durch Kommas getrennt)
+      email_placeholder: "E-Mail-Adressen der Nutzer:innen (durch Kommas getrennt)"
       footer: "Der:die Nutzer:in wird eine Email mit Anweisungen erhalten, wie er:sie sich registrieren kann "
       send: Einladung schicken
       title: "Nutzer:in einladen"
@@ -401,7 +401,7 @@ de_DE:
       title: Raumeinstellungen
       update: Raum aktualisieren
       client: Client auswählen
-      join_moderator: "Alle Nutzer nehmen als Moderator:in teil"
+      join_moderator: "Alle Nutzer:innen nehmen als Moderator:in teil"
       mute: "Mikrofon der Teilnehmer:innen beim Betreten ausschalten"
       require_approval: Freigabe durch Moderator bevor der Raum betreten werden kann
       start: "Jede:r Teilnehmer:in kann das Meeting starten"
@@ -414,7 +414,7 @@ de_DE:
       title: Raumzugang teilen
       save: Änderungen speichern
       cancel_changes: Änderungen abbrechen
-      select: Nutzer auswählen
+      select: "Nutzer:in auswählen"
     merge_user:
       cancel: Abbrechen
       from: Zusammenzuführendes Konto
@@ -510,7 +510,7 @@ de_DE:
     enter_the_access_code: Raumzugangscode bitte eingeben
     invalid_provider: "Sie haben eine ungültige URL eingegeben, bitte überprüfen Sie die URL und versuchen Sie es erneut."
     invited: Sie wurden zur Teilnahme eingeladen
-    invite_participants: Teilnehmer einladen
+    invite_participants: "Teilnehmer:in einladen"
     join: Teilnehmen
     last_session: "Letzte Konferenz am %{session}"
     login: Betreten
